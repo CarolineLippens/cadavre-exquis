@@ -1,6 +1,6 @@
 # Le lama de la gare de Charleroie-Sud #
 Un mignon et innocent petit lama attendait son train à la gare de Charleroie Sud. 
-![Image de lama](https://www.google.be/search?q=lama+train&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ5_e-jbjdAhUQC-wKHQbzDVwQ_AUICigB&biw=1707&bih=784&dpr=1.13#imgrc=7ohxubLRIXkNmM:)
+![Image de lama](https://github.com/CarolineLippens/cadavre-exquis-Caroline-Lippens/blob/master/lama.jpg)
 Il avait avec lui 3 choses:
 1. une pomme
 1. un pot de carbudja
